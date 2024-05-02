@@ -1,5 +1,9 @@
-## Next.js App Router Course - Starter
+## Next.js Financial Dashboard using App Router 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+The webapp contains a dashboard, invoice and customer sections with full functionality.
+You should be able to log in and out of the application using the following credentials:
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Email: user@nextmail.com
+Password: 123456
+
+Resources :(https://nextjs.org/learn), https://github.com/vercel/next-learn/tree/main/dashboard/final-example
